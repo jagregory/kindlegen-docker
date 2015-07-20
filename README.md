@@ -1,4 +1,4 @@
-# pngcrush Docker container
+# KindleGen Docker container
 
 [Docker](https://www.docker.io/) container for [KindleGen](http://www.amazon.com/gp/feature.html?docId=1000765211). Has KindleGen set as the entrypoint.
 
